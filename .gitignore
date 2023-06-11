@@ -1,0 +1,4 @@
+.venv
+.env
+.pynb_checkpoints
+*.lock
